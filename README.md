@@ -39,10 +39,10 @@ Automatically stops non-production EC2 instances outside working hours using AWS
 ## 🏗️ Project Structure
 
 ec2-autostop/
-│
-├── main.tf # Terraform config to launch EC2
-├── lambda_function.py # Python code for Lambda function
-├── README.md # You're here
+             │
+             ├── main.tf # Terraform config to launch EC2
+             ├── lambda_function.py # Python code for Lambda function
+             ├── README.md # You're here
 
 
 ---
